@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rishabh-Codes27 (Rishabh)
 - 👀 I’m interested in Web Development (front-end)
-- 🌱 I’m currently learning Web learning (Just started)
+- 🌱 I’m currently learning Web Development (Intermediate now I guess....)
 - 📫 How to reach me : My instagram : https://www.instagram.com/teen_.coder/
 - My Frontendmentor profile: https://www.frontendmentor.io/profile/Rishabh-Codes27
 <!---
