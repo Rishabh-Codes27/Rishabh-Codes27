@@ -1,28 +1,57 @@
-# < I Write Code />
+# < I Build Products, Not Just Code />
 
-## Crafting engaging user experiences and building scalable apps.
+### Crafting clean, scalable, and user-focused web experiences.
 
-I am passionate about coding—whether it's AI, web, mobile, or game development, I dive in with curiosity and focus.
+I’m a frontend-focused developer who loves building **fast, polished, and intuitive interfaces**.
 
-Currently, I specialize in **frontend development** with a strong command of **Next.js, TypeScript, and TailwindCSS**. I enjoy creating beautiful, performant interfaces and seamless user experiences.
+- 🚀 Frontend Developer Intern @ CellStrat  
+- 💻 1+ year experience building real-world applications  
+- 🎯 Focused on UI/UX, performance, and clean architecture  
 
-At the same time, I am expanding my backend skills, learning and building with **Node.js, Express, and TypeScript** to deliver full-stack solutions.
+Currently, I specialize in **Next.js, TypeScript, and TailwindCSS**, building modern web apps with attention to detail.
+
+I also develop backend systems using **Python and FastAPI**, especially for API-driven and AI-powered applications.
 
 ---
 
-### Favorite Tech Stack
+## ⚡ Tech Stack I Use to Ship Products
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![ShadCN UI](https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcn&logoColor=white) 
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-000000?style=for-the-badge&logo=framer&logoColor=white) 
-![GSAP](https://img.shields.io/badge/GSAP-88ce02?style=for-the-badge&logo=greensock&logoColor=white)  
 
-![Node.js](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
+![ShadCN UI](https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcn&logoColor=white) 
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-000000?style=for-the-badge&logo=framer&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-yellow)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688)
 
 ---
 
-*Let's build something awesome together! 🚀*
+## 🧪 Currently Building
+
+- 🧩 Tally-style form builder (Next.js + Zustand)
+- 🤖 AI-powered discharge report automation system
+- 🌐 Scalable full-stack apps with clean UI systems
+
+---
+
+## 💼 Featured Projects
+
+### 🔹 MediTrack
+Medication tracking platform with role-based dashboards  
+- Authentication, dashboards, API integration  
+
+### 🔹 Discharge Report Automation
+AI-powered system to generate structured medical reports  
+- File upload + AI processing + downloadable output  
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 Portfolio: https://dasrishabh.netlify.app   
+
+---
+
+### 🚀 Let’s build something impactful.
